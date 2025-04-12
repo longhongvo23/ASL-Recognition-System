@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🖐️ ASL Recognition System
 
@@ -47,8 +45,6 @@ and deployed with Python. This project utilizes a webcam to detect and classify 
    ```bash
    pip install -r requirements.txt
    ```
-
----
 
 ## ▶️ Run the App
 
