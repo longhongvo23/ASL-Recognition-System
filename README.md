@@ -31,7 +31,7 @@ and deployed with Python. This project utilizes a webcam to detect and classify 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ASL-Recognition-System.git
+   git clone https://github.com/longhongvo23/ASL-Recognition-System.git
    cd ASL-Recognition-System
    ```
 
