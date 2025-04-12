@@ -10,11 +10,11 @@ and deployed with Python. This project utilizes a webcam to detect and classify 
 
 ## 📌 Features
 
-- ✋ Real-time ASL hand sign recognition via webcam
-- 🤖 Deep learning model (`keras_model.h5`) trained using Google Teachable Machine
-- 💡 Simple and intuitive interface
-- 🔍 High accuracy with common ASL gestures (can be extended)
-- 🔁 Easily updatable with custom classes and retrained models
+- ✋ Real-time ASL hand sign recognition via webcam  
+- 🤖 Deep learning model (`keras_model.h5`) trained using Google Teachable Machine  
+- 💡 Simple and intuitive interface  
+- 🔍 High accuracy with common ASL gestures (can be extended)  
+- 🔁 Easily updatable with custom classes and retrained models  
 
 ---
 
@@ -26,6 +26,8 @@ and deployed with Python. This project utilizes a webcam to detect and classify 
 - **Teachable Machine (Google)**
 - **Pillow**
 - **NumPy**
+
+---
 
 ## 🛠️ Installation
 
@@ -69,15 +71,14 @@ The model (`keras_model.h5`) was trained using [Google Teachable Machine](https:
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/cf46ccd0-fc53-46de-9a6d-4ca353a66306)
+![image](https://github.com/user-attachments/assets/cf46ccd0-fc53-46de-9a6d-4ca353a66306)  
 ![image](https://github.com/user-attachments/assets/88ab2880-19ca-4a4c-ad2d-5064c026a0e6)
-
 
 ---
 
 ## 📝 Requirements
 
-```
+```txt
 opencv-python
 Pillow
 numpy
@@ -91,10 +92,10 @@ Or use the provided `requirements.txt`.
 
 ## 💡 Future Improvements
 
-- Add GUI using Streamlit or Tkinter
-- Support more sign languages (e.g. BSL, VSL)
-- Deploy as a web app with Flask or FastAPI
-- Add audio output for recognized signs
+- Add GUI using Streamlit or Tkinter  
+- Support more sign languages (e.g. BSL, VSL)  
+- Deploy as a web app with Flask or FastAPI  
+- Add audio output for recognized signs  
 
 ---
 
@@ -116,5 +117,3 @@ Made with ❤️ for accessible communication.
 ```
 
 ---
-
-Bạn có thể copy toàn bộ nội dung trên vào file `README.md`. Nếu muốn mình giúp thêm phần tạo ảnh `demo.gif`, hoặc hỗ trợ viết file `app.py`, mình có thể hỗ trợ luôn nhé!
